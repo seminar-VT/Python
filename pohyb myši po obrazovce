@@ -1,0 +1,5 @@
+import pyautogui as pg
+
+pg.moveTo(510,340,4)
+pg.click()
+pg.click()
